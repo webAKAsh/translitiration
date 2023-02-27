@@ -1,0 +1,19 @@
+.parentDiv{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    width: 100%;
+}
+
+.selectDiv{
+    display: flex;
+    gap: 2rem;
+}
+
+#inputLang{
+    width: 76rem;
+    height: 7rem;
+    font-size: 1rem;
+}
